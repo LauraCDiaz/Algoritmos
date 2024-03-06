@@ -1,0 +1,25 @@
+Algoritmo sin_titulo
+	Definir logo Como Caracter
+	Definir logo1 Como Caracter
+	Definir logo2 Como Caracter
+	Definir logo3 Como Caracter
+	Definir logo4 Como Caracter
+	Definir logo5 Como Caracter
+	Definir logo6 Como Caracter
+	logo <- 	"           ____       ____      ____ "
+	logo1 <- "          |    |     |    |    |    | " 
+	logo2<-  "          |    |     |    |    |    | "
+	logo3 <- "  ________|____|_____|____|____|____|_______ "
+	logo4 <- "  \                                        / "
+	logo5 <- "   \      []  []  []  []  []  []  []  []  / "
+	logo6 <- "    \____________________________________/ "
+	
+	Escribir logo 
+	Escribir logo1
+	Escribir logo2
+	Escribir logo3
+	Escribir logo4
+	Escribir logo5
+	Escribir logo6
+	Escribir "Laura Diaz y Sofia Valbuena"
+FinAlgoritmo

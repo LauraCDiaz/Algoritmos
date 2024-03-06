@@ -1,0 +1,20 @@
+Algoritmo CIRCULO 
+	//ENTRADA 
+	Definir radio Como real
+	Definir diametro Como Real 
+	Definir area Como Real 
+	Definir perimetro Como Real 
+	Definir volumen Como Real 
+	
+	//PROCESO 
+	radio <- 5.13
+	area <-  pi * r^2
+ 	diametro <- pi * 2
+	perimetro <- 2 * pi * r 
+	volumen <- 4/3 * pi ^ 3
+	//SALIDA 
+	
+	Escribir "Para un circulo de " , radio, " el area es: ", area, " con un diametro de: " diametro, " con el perimetro de: " perimetro, " del volumen " volumen
+	Escribir "Sofia Valbuena y Laura Diaz"
+	
+FinAlgoritmo
